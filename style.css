@@ -17,7 +17,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   height: 58px;
-  width: 375px;
+
   align-items: center;
   background-color: #ffff;
   padding-top: 20px;
@@ -98,7 +98,7 @@ body {
 
 .social-section {
   margin-right: 80px;
-  margin-top: 40px;
+
 }
 
 /* social media icons----------------------------------------------------------------------- */
@@ -373,7 +373,11 @@ body {
   color: #344563;
 }
 
+
 .about {
+
+
+
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -535,6 +539,7 @@ body {
 }
 
 .connectmywork {
+
   font-weight: 500;
   font-size: 16px;
   color: #7f8cff;
@@ -581,6 +586,12 @@ body {
   margin-top: 1rem;
 }
 
+
+.burger {
+  float: right;
+}
+
+
 .burger {
   float: right;
 }
@@ -590,4 +601,4 @@ body {
   height: 5px;
   background-color: rgb(22, 91, 182);
   margin: 6px 0;
-}
+
