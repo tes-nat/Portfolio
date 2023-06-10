@@ -17,6 +17,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   height: 58px;
+
   align-items: center;
   background-color: #ffff;
   padding-top: 20px;
@@ -97,7 +98,7 @@ body {
 
 .social-section {
   margin-right: 80px;
-  margin-top:  40px;
+
 }
 
 /* social media icons----------------------------------------------------------------------- */
@@ -371,7 +372,11 @@ body {
   line-height: 24px;
   color: #344563;
 }
+
+
 .about {
+
+
 
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -380,6 +385,7 @@ body {
   line-height: 24px;
   color: #344563;
 }
+
 .sectioncontact {
   width: 295px;
   height: 76px;
@@ -533,7 +539,7 @@ body {
 }
 
 .connectmywork {
- 
+
   font-weight: 500;
   font-size: 16px;
   color: #7f8cff;
@@ -579,9 +585,17 @@ body {
   border: 1px solid rgb(223, 13, 13);
   margin-top: 1rem;
 }
+
+
 .burger {
   float: right;
 }
+
+
+.burger {
+  float: right;
+}
+
 .humbergericon {
   width: 35px;
   height: 5px;
